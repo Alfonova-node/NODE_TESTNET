@@ -1,0 +1,1 @@
+query_id=AAE1PycMAwAAADU_Jwx_d37K&user=%7B%22id%22%3A6646349621%2C%22first_name%22%3A%22Anisa%22%2C%22last_name%22%3A%22Putri%20Diva%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726749123&hash=3f858a03c7a0fd48111cc4af4c4eae0010dafdfe79c914244fa673f739d5e060
